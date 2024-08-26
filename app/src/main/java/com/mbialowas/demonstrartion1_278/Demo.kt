@@ -12,9 +12,14 @@ fun main(){
 
     // variable declaration
     val num = 10 // read  only variable
+    println(num)
 
-    var num2 = 33 // writable variable aka mutable
+    //num = 230 // val cannot be reassigned
+    println(num)
 
+    var num2:Int = 33 // writable variable aka mutable
+
+    var title:String = "The Hobitt"
     /*
     DATA TYPES  -
     Primitives
