@@ -1,4 +1,4 @@
-package com.mbialowas.demonstrartion1_278
+package com.mbialowas.demonstrartion1
 
 import org.junit.Test
 
